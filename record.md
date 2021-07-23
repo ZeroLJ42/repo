@@ -3,6 +3,7 @@
 This is a record for daily learn.
 
 ### template
+
 - C++
 None
 - 计算机网络
@@ -16,4 +17,7 @@ None
 - 八股文
 None
 
+### 2021.07.23
+- 八股：
 
+浏览器输入url后的全流程
