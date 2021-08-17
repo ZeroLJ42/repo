@@ -23,7 +23,7 @@
             - 资源无更新：304。继续使用缓存
             - 有更新：200，并返回请求资源。存入缓存中。
 
-![](url-cache.png)
+![](pic/url-cache.png)
 
 ### DNS 查询
 
@@ -40,7 +40,7 @@
         3. 向二级域名服务器查询
         4. ...
 
-![](dns-query.png)
+![](pic/dns-query.png)
 - 域名服务器
     - 根域名服务器（13个 ip）
     - 顶级域名服务器（.com, .net, .org, ...）
@@ -63,15 +63,33 @@
     2. 服务器返回 ACK
     3. 服务器在数据发送完毕之后，发送 FIN
     4. 客户端返回 ACK
-![](tcp-begin.png)
-![](tcp-end.png)
+![](pic/tcp-begin.png)
+![](pic/tcp-end.png)
 
 - TCP 报文格式
-![](tcp-info.jpg)
+![](pic/tcp-info.jpg)
 
 - TCP 状态转移
-![](tcp-states.jpg)
+![](pic/tcp-states.jpg)
 
 ### HTTP 连接
 
+*[·-·]:TODO: add more details
+
+- http 请求
+
+- http 报文
+
+- http 状态码
+
 ### 页面渲染
+
+*[·-·]:TODO: add more details
+
+- 布局
+- 绘制
+
+### refs
+
+https://www.cnblogs.com/jin-zhe/p/11586327.html
+https://www.jianshu.com/p/c1dfc6caa520
