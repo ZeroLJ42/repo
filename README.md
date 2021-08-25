@@ -8,10 +8,19 @@ This is a repo that record the preparation for jobs.
 [浏览器输入url后的全流程](materials/url.md) 
 [进程、线程](materials/thread.md)
 ### Next
-- TCP 拥塞控制，流量
-- 信号量
-- 锁
-- 虚拟内存
+- 系统
+    - 信号
+    - 锁
+    - 虚拟内存
+
+- 计网
+    - TCP 拥塞控制，流量
+
+- 数据库
+    - ACID
+
+- C++
+    - 虚函数
 
 ## Items
 - C++
